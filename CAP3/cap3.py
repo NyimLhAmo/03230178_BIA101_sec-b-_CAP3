@@ -1,8 +1,8 @@
 ################################
-# Github Repo link
-# Your Name
-# Your Section 
-# Your Student ID Number
+# Github Repo link: https://github.com/NyimLhAmo/03230178_BIA101_sec-b-_CAP3
+# Your Name : Nim Lhamo Sherpa
+# Your Section : B
+# Your Student ID Number : 03230178
 ################################
 # REFERENCES
 # Links that you referred while solving 
